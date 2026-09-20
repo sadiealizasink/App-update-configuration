@@ -6,5 +6,5 @@
   "message": "Bugs Fixed & Performance Improvements.\nPlease update to latest version.",
   "button_text": "Update Now",
   "url": "https://t.me/ApexModsOfficiaI",
-  "force_update": false
+  "force_update": true
 }
