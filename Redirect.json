@@ -1,8 +1,6 @@
 {
-  "show_dialog": false,
-  "app_name": "ApexMods",
-  "developer": "ApexMods",
-  "telegram_link": "https://t.me/ApexModsOfficiaI",
-  "update_link": "https://t.me/ApexModsOfficiaI",
-  "description": "🔥 NEW UPDATE AVAILABLE!\n\n✅ Bugs Fixed\n✅ Improvements Added\n\nPlease update to continue."
+  "is_update": true,
+  "title": "New Update",
+  "msg": "New update is available!",
+  "link": "https://t.me/ApexModsOfficiaI"
 }
