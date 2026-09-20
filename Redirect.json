@@ -1,6 +1,10 @@
 {
-  "is_update": false,
-  "title": "New Update",
-  "msg": "New update is available!",
-  "link": "https://t.me/ApexModsOfficiaI"
+  "update_available": true,
+  "version": "2.0",
+  "title": "New Update Available!",
+  "subtitle": "Version 2.0 is here",
+  "message": "Bugs Fixed & Performance Improvements.\nPlease update to latest version.",
+  "button_text": "Update Now",
+  "url": "https://t.me/ApexModsOfficiaI",
+  "force_update": false
 }
