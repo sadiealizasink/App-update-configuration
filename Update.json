@@ -1,0 +1,10 @@
+{
+  "update_available": false,
+  "version": "2.0",
+  "title": "Update Available!",
+  "subtitle": "Version 2.0",
+  "message": "⚠️ You are currently using an older version. Please update to the latest version to enjoy the new features.",
+  "button_text": "Update Now",
+  "url": "https://t.me/ApexModsOfficiaI",
+  "force_update": true
+}
